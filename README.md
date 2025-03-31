@@ -41,7 +41,7 @@ This application has been tested on several other browsers like Chrome, Mozilla 
 ***
 # Authors
 ***
-* Vaibhav Acharya
+* Deepak Kothawale
 
 ***
 # License
@@ -60,7 +60,6 @@ Thank you for using or contributing to this repository.
 ***
 # Contact Me
 ***
-- **Gmail**			:	vaibhav.ach@gmail.com
-- **Facebook**		:	https://www.facebook.com/vaibhav.acharya.18
-- [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)]() **Twitter**		:	https://twitter.com/IAmVaibhav1993
-- **Github**		:	https://github.com/vaibhavpacharya
+- **Gmail**			:	kothawaledipk@gmail.com
+
+- **Github**		:	https://github.com/Deepak2070
